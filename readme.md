@@ -1,10 +1,10 @@
 ## Files included
 
-tennis\_singles\_atp.zip: the ATP (men's) data
-tennis\_singles\_wta.zip: the WTA (women's) data
-upsets-in-tennis-report.pdf: a report summarizing the study's findings
-upsets-in-tennis-slides.pdf: a collection of data visualizations from the study
-upsets-in-tennis.ipynb: a Jupyter notebook containing the analysis and narrative.
+- tennis\_singles\_atp.zip: the ATP (men's) data
+- tennis\_singles\_wta.zip: the WTA (women's) data
+- upsets-in-tennis-report.pdf: a report summarizing the study's findings
+- upsets-in-tennis-slides.pdf: a collection of data visualizations from the study
+- upsets-in-tennis.ipynb: a Jupyter notebook containing the analysis and narrative.
 
 ## Background
 
